@@ -1,7 +1,7 @@
 # AI Text Summarizer App
 
 ## Overview
-This project is a **tiny AI-powered app** that summarizes long articles or text into **concise 2–3 sentence summaries**. It demonstrates motivation, problem-solving skills, and creativity by combining Python programming, AI models, and a simple interactive UI.
+This project is a **tiny AI-powered text summarizer app** that summarizes long articles or text into **concise 2–3 sentence summaries**. It demonstrates motivation, problem-solving skills, and creativity by combining Python programming, AI models, and a simple interactive UI.
 
 You can use it in two ways:
 1. **Terminal-based script** (`summarizer.py`) – paste text in terminal and get a summary.
