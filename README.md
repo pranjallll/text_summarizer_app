@@ -78,8 +78,5 @@ Solution: Shifted to Streamlit UI, which allowed safe input handling and improve
 Solution: Used Unicode emojis to ensure compatibility across Mac and browser setups.
 💡 Support tools: For each problem, I used Google searches to find solutions, and ChatGPT to troubleshoot Python, Git, Streamlit, and model-related issues efficiently.
 
-### Deployment
-The Streamlit app is ready to be deployed on Render for public access:
-- Simple git push deployment from this repo.
-- Provides an interactive web app anyone can access without installing Python.
+ 
 
